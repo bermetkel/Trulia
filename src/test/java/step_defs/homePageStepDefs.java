@@ -1,6 +1,6 @@
 package step_defs;
 
-//Medet jindi
+
 
 import static org.testng.Assert.assertTrue;
 
