@@ -1,4 +1,5 @@
-Feature: 
+Feature: Creating new user
+#bermet tupoy
 
   @test1
   Scenario: Create new account
